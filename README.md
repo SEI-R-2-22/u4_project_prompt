@@ -11,7 +11,7 @@ Your task is to build a full-stack application with **any** of the technologies 
 
 ## Project Due Dates
 - Project Pitches Due **Thursday 5/5 at 9:00AM EST**
-- Projects Due **Monday 5/16 at 1:30PM EST**
+- Projects Due **Monday 5/16 at 11:00AM EST**
 
 ## For Project Approval
 
